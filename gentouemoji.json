@@ -1,14 +1,18 @@
 {
-    "name": "GentouEmojis", 
-    "version": "0.0.1", 
-    "description": "今日はカレーよ", 
-    "credit": "2025 Gentou", 
-    "iconURL": "https://github.com/Gentou30/GentouEmoji/blob/bc8ed86eb39087dc6180271248c5c09c5552c3e7/files/brain.png", 
-    "emojis": [
-      { 
-        "shortcode": "brain", 
-        "imageURL": "https://github.com/Gentou30/GentouEmoji/blob/bc8ed86eb39087dc6180271248c5c09c5552c3e7/files/brain.png", 
-        "aliases": ["脳", "brain", "のう"] 
-      }
-    ]
-  }
+  "name": "GentouEmojis",
+  "version": "0.0.1",
+  "description": "今日はカレーよ",
+  "credit": "2025 Gentou",
+  "iconURL": "https://raw.githubusercontent.com/Gentou30/GentouEmoji/refs/heads/main/files/brain.png",
+  "emojis": [
+    {
+      "shortcode": "brain",
+      "imageURL": "https://raw.githubusercontent.com/Gentou30/GentouEmoji/refs/heads/main/files/brain.png",
+      "aliases": [
+        "脳",
+        "brain",
+        "のう"
+      ]
+    }
+  ]
+}
