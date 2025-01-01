@@ -13,6 +13,20 @@
         "brain",
         "のう"
       ]
+    },
+    {
+      "shortcode": "ningen",
+      "imageURL": "https://raw.githubusercontent.com/Gentou30/GentouEmoji/refs/heads/main/files/ningen.png",
+      "aliases": [
+        "人間", "人", "にんげん", "ningen"
+      ]
+    },
+    {
+      "shortcode": "zenshin",
+      "imageURL": "https://raw.githubusercontent.com/Gentou30/GentouEmoji/refs/heads/main/files/zenshin.png",
+      "aliases": [
+        "全身", "ぜんしん", "zenshin"
+      ]
     }
   ]
 }
