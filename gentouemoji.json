@@ -3,11 +3,11 @@
     "version": "0.0.1", 
     "description": "今日はカレーよ", 
     "credit": "2025 Gentou", 
-    "iconURL": "https://example.com/files/emojipack.png", 
+    "iconURL": "https://github.com/Gentou30/GentouEmoji/blob/bc8ed86eb39087dc6180271248c5c09c5552c3e7/files/brain.png", 
     "emojis": [
       { 
         "shortcode": "brain", 
-        "imageURL": "https://example.com/files/hoge.gif", 
+        "imageURL": "https://github.com/Gentou30/GentouEmoji/blob/bc8ed86eb39087dc6180271248c5c09c5552c3e7/files/brain.png", 
         "aliases": ["脳", "brain", "のう"] 
       }
     ]
