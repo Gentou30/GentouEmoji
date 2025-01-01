@@ -1,0 +1,14 @@
+{
+    "name": "GentouEmojis", 
+    "version": "0.0.1", 
+    "description": "今日はカレーよ", 
+    "credit": "2025 Gentou", 
+    "iconURL": "https://example.com/files/emojipack.png", 
+    "emojis": [
+      { 
+        "shortcode": "brain", 
+        "imageURL": "https://example.com/files/hoge.gif", 
+        "aliases": ["脳", "brain", "のう"] 
+      }
+    ]
+  }
